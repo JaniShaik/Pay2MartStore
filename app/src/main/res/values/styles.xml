@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="LargeFont">
+        <item name="android:textSize">@dimen/text_size_18</item>
+        <item name="android:fontFamily">@font/poppins_regular</item>
+    </style>
+
+    <style name="MediumFont">
+        <item name="android:textSize">@dimen/text_size_16</item>
+        <item name="android:fontFamily">@font/poppins_regular</item>
+    </style>
+
+    <style name="RegularFont">
+        <item name="android:textSize">@dimen/text_size_14</item>
+        <item name="android:fontFamily">@font/poppins_regular</item>
+    </style>
+
+    <style name="SmallFont">
+        <item name="android:textSize">@dimen/text_size_12</item>
+        <item name="android:fontFamily">@font/poppins_regular</item>
+    </style>
+
+    <style name="LargeFont.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="LargeFont.Black">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="LargeFont.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="LargeFont.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="MediumFont.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="MediumFont.Black">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="MediumFont.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="MediumFont.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="RegularFont.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="RegularFont.Black">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="RegularFont.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="RegularFont.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="SmallFont.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="SmallFont.Black">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="SmallFont.White.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="SmallFont.Black.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>
